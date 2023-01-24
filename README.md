@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning algorithm
 - 💞️ I’m looking to collaborate on Open source community
 - 📫 How to reach me 1026361226@qq.com
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 zgtmy/zgtmy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
